@@ -11,12 +11,7 @@
 *.uf2
 
 # Copied files
-/.clang-format
-/.clangd
-/.devcontainer/devcontainer.json
-/.devcontainer/setup.sh
-/.editorconfig
-/.github/workflows/build_binaries.yaml
-/.vscode/extensions.json
-/LICENSE
-/Makefile
+.devcontainer/devcontainer.json
+.devcontainer/setup.sh
+LICENSE
+Makefile
