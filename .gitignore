@@ -9,9 +9,3 @@
 *.hex
 *.bin
 *.uf2
-
-# Copied files
-.devcontainer/devcontainer.json
-.devcontainer/setup.sh
-LICENSE
-Makefile
